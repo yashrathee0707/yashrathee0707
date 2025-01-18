@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952655eno4zqlv120ynyqzyqqadg0kstbhlo46236mq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashrathee0707" alt="yashrathee0707" /></a> </p>
+<img align = "right" alt = "coding" width = "400" align = "center" src = "https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952655eno4zqlv120ynyqzyqqadg0kstbhlo46236mq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Angular, ASP.net, C#**
 
